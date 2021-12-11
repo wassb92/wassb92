@@ -35,12 +35,14 @@
 
 <h2 align="center" class="display-4 font-weight-bold">What technologies do I use ?</h2>
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="100" height="100" align="center"/>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="100" height="100" align="center"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="100" height="100" align="center"/>
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="100" height="100" align="center"/>
 	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" width="100" height="100" align="center"/>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg" width="100" height="100" align="center"/>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/gitlab.svg" width="100" height="100" align="center"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" width="100" height="100" align="center"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width="100" height="100" align="center"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="100" height="100" align="center"/>
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/gitlab.svg" width="100" height="100" align="center"/>
+	<img src="https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg" width="90" height="90" align="center"/>
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg" width="100" height="100" align="center"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" width="100" height="100" align="center"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width="100" height="100" align="center"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="100" height="100" align="center"/>
+	
 </div>
