@@ -12,29 +12,34 @@
 <h2 align="center" class="display-4 font-weight-bold">What about my favorites languages ?</h2>
 
 <div>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" width="400" height="500" align="center" />
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" width="400" height="500" align="center"/>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg" width="400" height="500" align="center"/>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg" width="400" height="500" align="center"/>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width="400" height="500" align="center"/>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" width="400" height="500" align="center"/>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" width="400" height="500" align="center"/>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width="400" height="500" align="center"/>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="400" height="500" align="center"/>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/json.svg" width="400" height="500" align="center"/>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" width="400" height="500" align="center"/>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" width="400" height="500" align="center"/>
+	<div alt="Algorithm and Functional programming">
+    	<img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" width="100" height="95" align="center" />
+    	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="100" height="100" align="center"/>
+    	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg" width="100" height="90" align="center"/>
+	</div>
+	<div alt="web programming langages">
+    	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg" width="100" height="100" align="center"/>
+    	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width="100" height="100" align="center"/>
+		<img src="https://marmelab.com/react-admin/assets/logo.svg" width="90" height="90" align="center"/>
+    	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" width="100" height="100" align="center"/>
+    	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" width="100" height="100" align="center"/>
+		<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="100" height="100" align="center"/>
+    	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width="100" height="100" align="center"/>
+    	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="100" height="100" align="center"/>
+	</div>
+	<div alt="database technologies">
+    	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" width="100" height="100" align="center"/>
+    	<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="100" height="100" align="center"/>
+	</div>
 </div>
 
 <h2 align="center" class="display-4 font-weight-bold">What technologies I use ?</h2>
 <div>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" width="400" height="500" align="center"/>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg" width="400" height="500" align="center"/>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/gitlab.svg" width="400" height="500" align="center"/>
-   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="400" height="500" align="center"/>
-
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="100" height="100" align="center"/>
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="100" height="100" align="center"/>
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" width="100" height="100" align="center"/>
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg" width="100" height="100" align="center"/>
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/gitlab.svg" width="100" height="100" align="center"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width="100" height="100" align="center"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="100" height="100" align="center"/>
 </div>
-
-<!--
-
--->
