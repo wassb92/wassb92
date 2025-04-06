@@ -1,8 +1,6 @@
-<h1 align="center" style="font-size: 2.5rem;">
+<h1 align="center" style="font-size: 4.5rem;">
   Wello Horld, I'm <strong>Wassini Bouzidi</strong>
-  <span style="display:inline-block; transform-origin: 70% 70%;">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" style="display:inline-block; vertical-align: middle;" alt="👋"/>
-  </span>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="8%" style="display:inline-block; vertical-align: middle;" alt="👋"/>
 </h1>
 
 <h3 align="center" style="font-size: 1.5rem;">💻 Full-Stack Developer | 📚 IT Instructor | 👨🏼‍🎓 UCLA Alumni</h3>
