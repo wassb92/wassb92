@@ -1,35 +1,22 @@
 <h1 align="center" style="font-size: 2.5rem;">
   Wello Horld, I'm <strong>Wassini Bouzidi</strong>
-  <span style="display:inline-block; animation: wave 2s infinite; transform-origin: 70% 70%;">
-  👋🏼
+  <span style="display:inline-block; transform-origin: 70% 70%;">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" style="display:inline-block; vertical-align: middle;" alt="👋"/>
   </span>
 </h1>
-
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10deg); }
-  60% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
 
 <h3 align="center" style="font-size: 1.5rem;">💻 Full-Stack Developer | 📚 IT Instructor | 👨🏼‍🎓 UCLA Alumni</h3>
 
 <p align="center" style="font-size: 1.1rem;">
-  <a href="https://www.linkedin.com/in/wassini-bouzidi/">
+  <a target="_blank" href="https://www.linkedin.com/in/wassini-bouzidi/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle;" /> LinkedIn
   </a> •
-  <a href="https://www.wassini-bouzidi.com">🌐 Portfolio</a> •
-  <a href="https://github.com/wassb92">
+  <a target="_blank" href="https://www.wassini-bouzidi.com">🌐 Portfolio</a> •
+  <a target="_blank" href="https://github.com/wassb92">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"  style="vertical-align: middle; filter: invert(100%);" /> GitHub
   </a> •
-  <a href="https://www.malt.fr/profile/wassinibouzidi">🧑🏼‍💼 Malt</a> •
-  <a href="https://www.wassini-bouzidi.com/cv">📄 CV</a>
+  <a target="_blank" href="https://www.malt.fr/profile/wassinibouzidi">🧑🏼‍💼 Malt</a> •
+  <a target="_blank" href="https://www.wassini-bouzidi.com/cv">📄 CV</a>
 </p>
 
 ---
@@ -120,7 +107,7 @@ TailwindCSS, Figma, Notion, Trello, Jira, Slack, Googling (yes, it's a skill, I 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/wassb92">
+  <a target="_blank" href="https://github.com/wassb92">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=wassb92&theme=tokyonight&hide_border=true" />
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wassb92&theme=tokyonight" />
     <img width="100%"  src="https://github-readme-stats.vercel.app/api?username=wassb92&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -149,7 +136,7 @@ TailwindCSS, Figma, Notion, Trello, Jira, Slack, Googling (yes, it's a skill, I 
 
 ### 📫 Contact Me
 
-- 📧 Email: <a href="mailto:wassini.bouzidi.pro@gmail.com">wassini.bouzidi.pro@gmail.com</a>
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/wassini-bouzidi/">linkedin.com/in/wassini-bouzidi</a>
-- 🌐 Portfolio: <a href="https://www.wassini-bouzidi.com">wassini-bouzidi.com</a> (There is a "Contact" part at the bottom of the root page)
-- 🧑🏼‍💼 Malt: <a href="https://www.malt.fr/profile/wassinibouzidi">malt.fr/profile/wassinibouzidi</a>
+- 📧 Email: <a target="_blank" href="mailto:wassini.bouzidi.pro@gmail.com">wassini.bouzidi.pro@gmail.com</a>
+- 💼 LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/wassini-bouzidi/">linkedin.com/in/wassini-bouzidi</a>
+- 🌐 Portfolio: <a target="_blank" href="https://www.wassini-bouzidi.com">wassini-bouzidi.com</a> (There is a "Contact" part at the bottom of the root page)
+- 🧑🏼‍💼 Malt: <a target="_blank" href="https://www.malt.fr/profile/wassinibouzidi">malt.fr/profile/wassinibouzidi</a>
