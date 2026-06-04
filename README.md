@@ -56,7 +56,7 @@ TailwindCSS, Figma, Notion, Jira, Slack
 
 ### 💼 Experience Highlights
 
-- **Lead Frontend & Full-Stack Developer @Paradox** _(May 2025 – Present)_  
+- **Lead Frontend & Full-Stack Developer @Paradox** _(May 2025 – July 2026)_  
 - **Founder & Full-Stack Engineer @Incipit** _(March 2026 – Present)_  
 - **Full-Stack Developer @Mousalla** _(December 2024 – Present)_  
 
@@ -64,7 +64,7 @@ TailwindCSS, Figma, Notion, Jira, Slack
 
 ### 📚 Full Experience
 
-- **Lead Frontend & Full-Stack Developer @Paradox** _(May 2025 – Present)_  
+- **Lead Frontend & Full-Stack Developer @Paradox** _(May 2025 – July 2026)_  
   Built and maintained high-performance applications used by thousands of users.  
   Developed a full mobile application from scratch and implemented AI-powered conversational agents in production.
 
