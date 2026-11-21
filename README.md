@@ -24,7 +24,7 @@
 ### 🧠 About Me
 
 - 🤖 **AI & Full-Stack Developer** building real-world SaaS, mobile apps, and AI-driven products
-- 💼 **Currently building Payout's React/TypeScript Design System**, working with a UAE-based company
+- 💼 **Currently building Payout's React/TypeScript Design System**, working with a company based in Dubai, UAE
 - 🚀 **Built a full mobile app & AI agents in production** at Paradox, used by thousands of users
 - 🛠️ **End-to-end builder**: from idea to deployment (backend, frontend, product)
 - 🎓 **Graduated from Epitech Paris** (2020–2025)
@@ -58,7 +58,7 @@ TailwindCSS, Storybook, Figma, Notion, Jira, Slack
 
 ### 💼 Experience Highlights
 
-- **Front-End Developer, Design System @[Payout](https://payout.fr/)** _(August 2026 – Present; UAE-based company)_  
+- **Front-End Developer, Design System @[Payout](https://payout.fr/)** _(August 2026 – Present; company based in Dubai, UAE)_  
 - **Lead Frontend & Full-Stack Developer @Paradox** _(May 2025 – July 2026)_  
 - **Founder & Full-Stack Engineer @[Incipit](https://myincipit.netlify.app/)** _(March 2026 – November 2026; development completed)_  
 - **Full-Stack Developer @[Mousalla](https://apps.apple.com/fr/app/mousalla/id6828425904)** _(December 2024 – Present; published on the App Store)_  
@@ -68,7 +68,7 @@ TailwindCSS, Storybook, Figma, Notion, Jira, Slack
 
 ### 📚 Full Experience
 
-- **Front-End Developer, Design System @[Payout](https://payout.fr/)** _(August 2026 – Present; UAE-based company)_  
+- **Front-End Developer, Design System @[Payout](https://payout.fr/)** _(August 2026 – Present; company based in Dubai, UAE)_  
   Building the React/TypeScript Design System and its Storybook documentation for a financial SaaS platform.  
   Reusable components, design tokens, full product reference pages, and interaction, keyboard, focus and responsive tests.  
   Stack: React, TypeScript, TailwindCSS, Storybook, Vitest, React Testing Library and Recharts.
