@@ -15,7 +15,8 @@
   <a target="_blank" href="https://github.com/wassb92">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" style="filter: invert(100%);" /> GitHub
   </a> •
-  <a target="_blank" href="https://www.wassini-bouzidi.com/cv">📄 CV</a>
+  <a target="_blank" href="https://www.wassini-bouzidi.com/cv?lang=fr">📄 CV FR</a> •
+  <a target="_blank" href="https://www.wassini-bouzidi.com/cv?lang=en">CV EN</a>
 </p>
 
 ---
@@ -23,28 +24,29 @@
 ### 🧠 About Me
 
 - 🤖 **AI & Full-Stack Developer** building real-world SaaS, mobile apps, and AI-driven products
+- 💼 **Currently building Payout's React/TypeScript Design System**, working with a UAE-based company
 - 🚀 **Built a full mobile app & AI agents in production** at Paradox, used by thousands of users
 - 🛠️ **End-to-end builder**: from idea to deployment (backend, frontend, product)
 - 🎓 **Graduated from Epitech Paris** (2020–2025)
 - 🌴 **Certificate in Data Science & Cybersecurity** from UCLA (2023–2024)
 - ⚡ **Fast learner & highly adaptable**, constantly exploring new technologies and building practical solutions
-- 🌍 **International mindset**, open to global opportunities 
+- 🌍 **Based in Dubai, UAE**, open to global opportunities
 
 ---
 
 ### 🚀 Skills
 
 **Languages & Frameworks**  
-JavaScript, TypeScript, React, Next.js, Node.js, NestJS, React Native, Golang, Python, C, C++
+JavaScript, TypeScript, React, Next.js, Node.js, NestJS, React Native, Expo, Golang, Python, C, C++
 
 **AI & Product**  
 OpenAI API, AI Agents, Prompt Engineering, SaaS Architecture, API Integration
 
 **Tools & Platforms**  
-Docker, GitHub, CI/CD, AWS, PostgreSQL, MongoDB, Stripe, Jest, Cypress
+Docker, GitHub, CI/CD, AWS, PostgreSQL, MongoDB, SQLite, Stripe, Jest, Cypress, Vitest, React Testing Library
 
 **UI & Productivity**  
-TailwindCSS, Figma, Notion, Jira, Slack
+TailwindCSS, Storybook, Figma, Notion, Jira, Slack
 
 ---
 
@@ -56,25 +58,36 @@ TailwindCSS, Figma, Notion, Jira, Slack
 
 ### 💼 Experience Highlights
 
+- **Front-End Developer, Design System @[Payout](https://payout.fr/)** _(August 2026 – Present; UAE-based company)_  
 - **Lead Frontend & Full-Stack Developer @Paradox** _(May 2025 – July 2026)_  
-- **Founder & Full-Stack Engineer @Incipit** _(March 2026 – Present)_  
-- **Full-Stack Developer @Mousalla** _(December 2024 – Present)_  
+- **Founder & Full-Stack Engineer @[Incipit](https://myincipit.netlify.app/)** _(March 2026 – November 2026; development completed)_  
+- **Full-Stack Developer @[Mousalla](https://apps.apple.com/fr/app/mousalla/id6828425904)** _(December 2024 – Present; published on the App Store)_  
+- **Creator & Mobile Developer @[Eauprès](https://apps.apple.com/app/id6834587929)** _(November 2026 – Present; published on the App Store)_  
 
 ---
 
 ### 📚 Full Experience
 
+- **Front-End Developer, Design System @[Payout](https://payout.fr/)** _(August 2026 – Present; UAE-based company)_  
+  Building the React/TypeScript Design System and its Storybook documentation for a financial SaaS platform.  
+  Reusable components, design tokens, full product reference pages, and interaction, keyboard, focus and responsive tests.  
+  Stack: React, TypeScript, TailwindCSS, Storybook, Vitest, React Testing Library and Recharts.
+
 - **Lead Frontend & Full-Stack Developer @Paradox** _(May 2025 – July 2026)_  
   Built and maintained high-performance applications used by thousands of users.  
   Developed a full mobile application from scratch and implemented AI-powered conversational agents in production.
 
-- **Founder & Full-Stack Engineer @Incipit** _(March 2026 – Present)_  
-  Building an AI-powered SaaS platform for writers with features like auto-completion, rewriting, and idea generation.  
-  Full product developed independently (frontend, backend, architecture, subscriptions).
+- **Founder & Full-Stack Engineer @[Incipit](https://myincipit.netlify.app/)** _(March 2026 – November 2026)_  
+  Independently developed an AI-assisted writing platform with rich-text editing, auto-completion, rewriting and idea generation.  
+  Owned frontend, backend, architecture, authentication and subscription workflows. Development completed; commercialization was not pursued.
 
-- **Full-Stack Developer @Mousalla** _(December 2024 – Present)_  
-  Developed a location-based mobile application enabling real-world user interactions.  
-  Built authentication, geolocation features, and scalable backend architecture.
+- **Full-Stack Developer @[Mousalla](https://apps.apple.com/fr/app/mousalla/id6828425904)** _(December 2024 – Present)_  
+  Published an iOS app for finding nearby spaces for reflection, checking practical visiting information and saving places for future visits.  
+  Interactive maps, search, favorites, reminders, moderated contributions and sponsorship-based access. Built end-to-end with React Native, Expo, TypeScript, Go/Gin and MongoDB.
+
+- **Creator & Mobile Developer @[Eauprès](https://apps.apple.com/app/id6834587929)** _(November 2026 – Present)_  
+  Published an iOS app for finding water points across metropolitan and overseas France.  
+  Embedded catalog of 42,926 locations, offline search, filters, details and favorites; indexed SQLite queries and a Python collection/deduplication pipeline. React Native, Expo and TypeScript; map tiles and updates require Internet.
 
 - **IT Teacher (Freelance)** _(February 2023 – October 2025)_  
   Delivered programming courses (Web, OOP, Git, Docker) to students from Bac+1 to Bac+5 across multiple institutions.
@@ -117,6 +130,14 @@ TailwindCSS, Figma, Notion, Jira, Slack
 
 - **Full-Stack Developer @Ublo.immo** _(July 2021 – December 2021)_  
   Developed mobile and admin applications using modern web technologies.
+
+---
+
+### Selected Projects
+
+- **[MonDars](https://mondars.netlify.app/)** — Education marketplace connecting students, independent teachers and institutes: course search, enrollment, scheduling, messaging, role-based dashboards and Stripe subscriptions. Next.js, React, TypeScript, NestJS and MongoDB.
+- **[Iqra](https://iqra-al-quraan.com/)** — Advanced multilingual digital reading platform with desktop book-like rendering, mobile reading, search, audio playback, bookmarks and synchronized progress. Next.js, React, TypeScript, Zustand and MongoDB.
+- **[Emory Molecular Project](https://emory-molecular-project.onrender.com/)** — Independent scientific prototype inspired by molecular research at Emory University: interactive 3D protein superposition, structural correspondence, reproducible Python analyses and exports. Next.js, TypeScript, Molstar and Docker; not an official university product.
 
 ---
 
